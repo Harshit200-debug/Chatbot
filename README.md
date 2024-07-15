@@ -1,1 +1,2 @@
 # Chatbot
+This chatbot can engage in basic conversations, tell jokes, and even respond to weather inquiries. By leveraging the Natural Language Toolkit (NLTK), I've been able to create a set of conversational patterns and reflections, making the chatbot capable of understanding and responding to user inputs effectively. Additionally, I've implemented a fun feature where the bot tells jokes without repeating the same one consecutively.
